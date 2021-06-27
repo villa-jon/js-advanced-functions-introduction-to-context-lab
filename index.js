@@ -1,9 +1,9 @@
 // Your code here
-// let testEmployee = {
-// 	firstName: `${firstName}`, 
-// 	familyName: `${familyName}`, 
-// 	title: `${title}`, 
-// 	payPerHour: `${payPerHour}`,};
+let testEmployee = {
+	firstName: `${firstName}`, 
+	familyName: `${familyName}`, 
+	title: `${title}`, 
+	payPerHour: `${payPerHour}`,};
 
 // document.addEventListener("DOMContentLoaded", () => {
 function createEmployeeRecord(array) {
